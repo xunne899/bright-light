@@ -1,6 +1,6 @@
 # BrightLight Consultancy
 
-Scenerio : BrightLight Consultancy is working with retail stall that specializes in food and beverages. 
+Scenerio: BrightLight Consultancy is working with retail stall that specializes in food and beverages. 
 
 Problem: Retail Client is a small SME , it is still learning about the market and analysing customers purchasing behaviour.
 
