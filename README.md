@@ -4,7 +4,7 @@ Scenerio: BrightLight Consultancy is working with retail stall that specializes 
 
 Problem: Retail Client is a small SME , it is still learning about the market and analysing customers purchasing behaviour.
 
-As a Data Analysis for BrightLight, my job is to help retail client to understand the market, using PowerBI Tool. Here are the few items of interest:
+As a Data Analyst for BrightLight, my job is to help retail client to understand the market, using PowerBI Tool. Here are the few items of interest:
 
 - 6 Campaign Performance
 - Products Performance
