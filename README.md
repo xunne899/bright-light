@@ -4,7 +4,7 @@ Scenerio : BrightLight Consultancy is working with retail stall that specializes
 
 As a Data Analysis for BrightLight, my job is to help retail client to understand the market, using PowerBI Tool. Here are the few items of interest:
 
-6 Campaign Performance
-Products Performance
-Our Customers Group
-Evaluating Campaign Performance & Buyer's decision
+- 6 Campaign Performance
+- Products Performance
+- Our Customers Group
+- Evaluating Campaign Performance & Buyer's decision
