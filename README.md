@@ -8,5 +8,5 @@ As a Data Analyst for BrightLight, my job is to help retail client to understand
 
 - 6 Campaign Performance
 - Products Performance
-- Our Customers Group
+- Customers Group
 - Evaluating Campaign Performance & Buyer's decision
