@@ -10,3 +10,10 @@ As a Data Analyst for BrightLight, my job is to help retail client to understand
 - Products Performance
 - Customers Group
 - Evaluating Campaign Performance & Buyer's decision
+
+
+![image](https://github.com/user-attachments/assets/f7a9b030-2c25-4945-a707-e4cb0391a554)
+
+![image](https://github.com/user-attachments/assets/93310240-92eb-4f82-9b24-10e0924bffd3)
+
+
